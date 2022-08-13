@@ -1,6 +1,4 @@
 /* 
-Reg. No. : E/18/025 
-Name : APONSU G.L.C.
 Course : CO253
 Title : Hosptal Maagement System
 */
